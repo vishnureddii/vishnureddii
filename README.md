@@ -28,7 +28,7 @@ To build production-ready AI systems that combine strong data foundations with m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-reddy-thuniki-659701165/)
 
-📧 Email: [vishnureddy2932@gmail.com](mailto:vishnureddy2932@gmail.com)
+📧 Email: [vishnureddy.thuniki@gmail.com](mailto:vishnureddy.thuniki@gmail.com)
 
 ## 📊 GitHub Stats
 
