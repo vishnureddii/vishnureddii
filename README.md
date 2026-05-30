@@ -4,18 +4,29 @@
 
 🤖 Building AI Agents, RAG Systems & LLM Applications
 
-💾 Database Engineer turned AI Builder
+💾 Data Engineer → AI Engineer
 
-🌱 Currently Learning:
-- LangGraph
-- Multi-Agent Systems
-- FastAPI
-- Production AI Systems
+🌱 Currently Learning
 
-🎯 Goal:
-Build production-ready AI systems that solve real-world problems.
+* LangGraph
+* Multi-Agent Systems
+* FastAPI
+* Production AI Systems
 
-📫 Reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-reddy-thuniki-659701165/)
+🔨 Currently Building
 
-Email: vishnureddy2932@gmail.com
+* AI Agents with LangGraph
+* RAG Applications
+* LLM-Powered Tools
+* End-to-End AI Workflows
+
+🎯 Mission
+
+To build production-ready AI systems that combine strong data foundations with modern Generative AI technologies.
+
+📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-reddy-thuniki-659701165/)
+
+📧 Email: [vishnureddy2932@gmail.com](mailto:vishnureddy2932@gmail.com)
+
