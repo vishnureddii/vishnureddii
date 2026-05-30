@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vishnu 👋
 
-<!--
-**vishnureddii/vishnureddii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer @ LTIMindtree
 
-Here are some ideas to get you started:
+🤖 Building AI Agents, RAG Systems & LLM Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 Database Engineer turned AI Builder
+
+🌱 Currently Learning:
+- LangGraph
+- Multi-Agent Systems
+- FastAPI
+- Production AI Systems
+
+🎯 Goal:
+Build production-ready AI systems that solve real-world problems.
+
+📫 Reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-reddy-thuniki-659701165/)
+
+Email: vishnureddy2932@gmail.com
