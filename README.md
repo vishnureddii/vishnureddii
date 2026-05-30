@@ -30,3 +30,14 @@ To build production-ready AI systems that combine strong data foundations with m
 
 📧 Email: [vishnureddy2932@gmail.com](mailto:vishnureddy2932@gmail.com)
 
+## 📊 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnureddii&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vishnureddii&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddii&layout=compact&hide_border=true)
+
+![Profile_views](https://komarev.com/ghpvc/?username=vishnureddii&label=Profile%20Views)
+
