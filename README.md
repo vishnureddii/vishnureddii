@@ -8,6 +8,7 @@
 
 🌱 Currently Learning
 
+* LangChain
 * LangGraph
 * Multi-Agent Systems
 * FastAPI
