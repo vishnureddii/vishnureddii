@@ -33,12 +33,13 @@ To build production-ready AI systems that combine strong data foundations with m
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishnureddii&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnureddii&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishnureddii&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vishnureddii&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vishnureddii&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnureddii&layout=compact&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=vishnureddii&label=Profile%20views&color=0e75b6&style=flat)
 
-![Profile_views](https://komarev.com/ghpvc/?username=vishnureddii&label=Profile%20Views)
+
 
